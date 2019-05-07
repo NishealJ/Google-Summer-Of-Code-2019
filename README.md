@@ -8,9 +8,11 @@ The aim of this Infrastructure Project is to migrating all the third party libra
 
 ### Organization :
 
-Oppia Foundation
+Oppia Foundation 
+ *[oppia.org](oppia.org)*
 
 ### Mentors : 
 
-Apurv Bajaj
-Sean Lip
+* [Apurv Bajaj](https://github.com/apb7)
+* [Sean Lip](https://github.com/seanlip)
+
